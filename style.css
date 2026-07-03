@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(0, 0, 90);
+    text-align: center;
+}
+h1 {
+    color: chartreuse;
+}
+p {
+    color: aqua;
+}
+h3 {
+    color: yellow;
+}
+.vote-1 {
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vote-1:hover {
+    background-color: greenyellow;
+}
+.vote-2{
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vote-2:hover{
+    background-color: greenyellow;
+}
+.vote-3{
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vote-3:hover {
+    background-color: greenyellow;
+}
+.vote-4{
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vote-4:hover{
+    background-color: greenyellow;
+}
+.vote-5{
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vote-5:hover{
+    background-color: greenyellow;
+}
+.vote-6{
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.vote-6:hover {
+    background-color: greenyellow;
+}
+h4 {
+    color: whitesmoke;
+}
